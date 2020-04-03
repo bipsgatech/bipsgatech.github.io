@@ -1,22 +1,25 @@
 ---
 layout: default
+title: Blog
 ---
-
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+      <div class="text_block">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <h1>{{ post.title }}</h1>
+          <div>
+            <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+          </div>
+        </a>
+        <div class="entry">
+          {{ post.excerpt }}
         </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <div class="post-image">
+        <img src="{{ site.baseurl }}{{ post.image }}"/>
+      </div>
     </article>
   {% endfor %}
 
@@ -33,9 +36,9 @@ layout: default
       {% if page == paginator.page %}
         <span class="webjeda">{{ page }}</span>
       {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+        <a href="{{ '/blog/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
       {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+        <a href="{{ '/blog/page:num' | prepend: '/' | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
       {% endif %}
     {% endfor %}
 
