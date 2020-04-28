@@ -8,4 +8,3 @@ BiPS (Biomedical Photonics Society) is a graduate student organization dedicated
 #
 
 ![image](/images/Bips_executive.png)
-
