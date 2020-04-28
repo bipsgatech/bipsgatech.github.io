@@ -14,7 +14,7 @@ We are currently preparing '1st Virtual Summer Microscopy 101 workshop' (co-host
 
 # Executive members (2020-2021)
 
- |President             |Vice-president    |Tresurer             |Secretary/Webmaster   |Advisor/Professor   | 
+ |President             |Vice-president    |Treasurer            |Secretary/Webmaster   |Advisor/Professor   | 
  |----------------------|------------------|---------------------|----------------------|--------------------|  
  |Jeonghwan Son (Dylan) |Paloma Costa      |Nischita Kaza        |Tara Urner            |Dr. Shu Jia         |
  |Biomedical Engineering|Electronic Computer Engineering|Bio Engineering (ECE)|Biomedical Engineering|Dr. Francisco Robles|
