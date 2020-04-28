@@ -6,4 +6,4 @@ layout: default
 
 BiPS (Biomedical Photonics Society) is a graduate student organization dedicated to Biomedical Photonics through both Georgia Tech and Emory University and share a vision of facilitating future leaders in Biomedical Photonics community in both academy and industry.
 
-/images/Bips_executive.png
+image: /images/Bips_execuive.jpg
