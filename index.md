@@ -8,9 +8,7 @@ BiPS (Biomedical Photonics Society) is a graduate student organization dedicated
 
 
 ```
-Upcoming initiatives 
-1. Virtual Summer Microscopy 101 workshop (co-host with BBUGS : bbugs.gatech.edu)
-2. Virtual Georgia Microscopy Fall Summit
+We are currently preparing '1st Virtual Summer Microscopy 101 workshop' (co-host with BBUGS : bbugs.gatech.edu)
 ```
 
 
