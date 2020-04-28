@@ -16,13 +16,9 @@ Upcoming initiatives
 
 # Executive members (2020-2021)
 
- |Role                | Name                  | Departme                 | 
- |------------------- | --------------------- | ------------------------ |
- |President           | Jeonghwan Son (Dylan) | Biomedical Engineering   |
- |Vice-president      | Paloma Costa          | Electronic Computer Eng. |
- |Tresurer            | Nischita Kaza         | Bio Engineering (ECE)    |
- |Secretary/Webmaster | Tara Urner            | Biomedical Engineering   |
- |Advisor/Professor   | Dr. Shu Jia           | Biomedical Engineering   |
- |Advisor/Professor   | Dr. Francisco Robles  | Biomedical Engineering   |
+ |President              | Vice-president          |Tresurer              |Secretary/Webmaster    |Advisor/Professor    | 
+ |---------------------- |------------------------ |--------------------- |---------------------- |-------------------- |  
+ |Jeonghwan Son (Dylan)  |Paloma Costa             |Nischita Kaza         |Tara Urner             |Dr. Shu Jia          |
+ |Biomedical Engineering |Electronic Computer Eng. |Bio Engineering (ECE) |Biomedical Engineering |Dr. Francisco Robles |
 
 ![image](/images/Bips_executive.png)
