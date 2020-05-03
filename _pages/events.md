@@ -4,4 +4,4 @@ title: Events
 permalink: /events/
 ---
 
-## Please check back!
+## Events coming soon, please check back!

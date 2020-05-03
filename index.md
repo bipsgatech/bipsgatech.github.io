@@ -4,19 +4,8 @@ layout: default
 
 # Welcome to BiPS
 
-BiPS (Biomedical Photonics Society) is a graduate student organization dedicated to Biomedical Photonics through Georgia Tech and Emory University and share a vision of facilitating future leaders in Biomedical Photonics community in both academy and industry.
+{% include floatimage.html image_path="/images/BiPS_logo-2.png" image_width="300px"%}
+
+BiPS (Biomedical Photonics Society) is a graduate student organization dedicated to Biomedical Photonics based in the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University.
 
 
-```
-We are currently preparing '1st Virtual Summer Microscopy 101 workshop' (co-host with BBUGS : bbugs.gatech.edu)
-```
-
-
-# Executive members (2020-2021)
-
- |President             |Vice-president    |Treasurer            |Secretary/Webmaster   |Advisor/Professor   | 
- |----------------------|------------------|---------------------|----------------------|--------------------|  
- |Jeonghwan Son (Dylan) |Paloma Costa      |Nischita Kaza        |Tara Urner            |Dr. Shu Jia         |
- |Biomedical Engineering|Electronic Computer Engineering|Bio Engineering (ECE)|Biomedical Engineering|Dr. Francisco Robles|
-
-![image](/images/Bips_executive.png)
