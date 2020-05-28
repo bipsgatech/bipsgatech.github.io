@@ -13,7 +13,7 @@ author: BiPS
 description: Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/BiPS_logo.png
+avatar: ''
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -48,7 +48,9 @@ enforce_ssl: https://bipsgatech.github.io/bipstest.github.io/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: https://bipsgatech.github.io/bipstest.github.io/
+#baseurl: https://bipsgatech.github.io/bipstest.github.io/
+
+baseurl: 'https://bipstest.github.io/'
 
 permalink: /:title/
 

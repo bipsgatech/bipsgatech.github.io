@@ -11,7 +11,7 @@ We welcome anyone to join our weekly journal club! Currently we meet on Fridays 
 | Date | Presenter | Title | Journal information | DOI |
 |:----------:|:--------------:|:------------------------------------------------------------------------------:|:------------------------------------:|:-----------------------------------------:|
 | May 22th | Dylan Son | Structured illumination microscopy using a photonic chip | Nature Photonics (2020) | <https://doi.org/10.1038/s41566-020-0620-2> |
-| May 15th | Patrick Ledwig | ?? | ?? | ?? |
+| May 15th | Patrick Ledwig | Label-free biochemical quantitative phase imaging with mid-infrared photothermal effect | Optica (2020) | <https://doi.org/10.1364/OPTICA.390186> |
 | May 8th | Ashkan | Field-resolved infrared spectroscopy of biological systems | Nature (2020) | <https://doi.org/10.1038/s41586-019-1850-7> |
 | May 1st | Tara Urner | Three-dimensional localization microscopy in live flowing cells | Nature Nanotechnology (2020) | <https://doi.org/10.1038/s41565-020-0662-0> |
 | April 24th | Jake Guang | 3d cellular-resolution imaging in arteries using few-mode interferometry | Light: Science & Applications (2019) | <https://doi.org/10.1038/s41377-019-0211-5> |
