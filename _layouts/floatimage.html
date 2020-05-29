@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="page">
+  <h1>{{ page.title }}</h1>
+  <div class="entry">
+    <div style="display: flex; flex-direction: row; margin: 15px 0;">
+      <div style="flex: 1;">
+        <img
+          style="max-width: unset"
+          src="{{ page.image_path }}"
+          alt="{{ page.image_alt }}"
+          width="{{ page.image_width }}"
+        />
+      </div>
+      <div>
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</article>
