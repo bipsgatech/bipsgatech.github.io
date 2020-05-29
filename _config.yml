@@ -50,7 +50,7 @@ enforce_ssl: https://bipsgatech.github.io/bipstest.github.io/
 # then add in the baseurl here, like this: "/repository-name"
 #baseurl: https://bipsgatech.github.io/bipstest.github.io/
 
-baseurl: 'https://bipstest.github.io/'
+baseurl: 'https://bipsgatech.github.io/bipstest.github.io/'
 
 permalink: /:title/
 
