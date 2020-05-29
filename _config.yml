@@ -41,16 +41,16 @@ google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://bipsgatech.github.io/bipstest.github.io/
-enforce_ssl: https://bipsgatech.github.io/bipstest.github.io/
+url: https://bipsgatech.github.io
+enforce_ssl: https://bipsgatech.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-#baseurl: ''
-baseurl: 'https://bipsgatech.github.io/bipstest.github.io/'
+baseurl: ''
+#baseurl: 'https://bipsgatech.github.io/bipstest.github.io/'
 
 permalink: /:title/
 
