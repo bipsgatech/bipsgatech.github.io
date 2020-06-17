@@ -10,6 +10,10 @@ We welcome anyone to join our weekly journal club! Currently we meet on Fridays 
 
 | Date | Presenter | Title | Journal information | DOI |
 |:----------:|:--------------:|:------------------------------------------------------------------------------:|:------------------------------------:|:-----------------------------------------:|
+| June 12th | Paloma | Real-time 3D movement correction for two-photon imaging in behaving animals | Nature Methods (2020) | https://doi.org/10.1038/s41592-020-0851-7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| June 5th | Nischita Kaza | Endo-microscopy beyond the Abbe and Nyquist limits | Light: Science & Applications (2020) | https://doi.org/10.1038/s41377-020-0308-x |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| May29th | Francisco Robles | High-speed interferometric imaging reveals dynamics of neuronal deformation during the action potential | PNAS (2020) | https://doi.org/10.1073/pnas.1920039117 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | May 22th | Dylan Son | Structured illumination microscopy using a photonic chip | Nature Photonics (2020) | <https://doi.org/10.1038/s41566-020-0620-2> |
 | May 15th | Patrick Ledwig | Label-free biochemical quantitative phase imaging with mid-infrared photothermal effect | Optica (2020) | <https://doi.org/10.1364/OPTICA.390186> |
 | May 8th | Ashkan | Field-resolved infrared spectroscopy of biological systems | Nature (2020) | <https://doi.org/10.1038/s41586-019-1850-7> |
