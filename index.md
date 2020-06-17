@@ -24,7 +24,7 @@ BiPS (Biomedical Photonics Society) is a student-run organization that aims to b
 
 We want to know what types of events will best serve the community during summer 2020, please take our short [survey](https://docs.google.com/forms/d/e/1FAIpQLSfTlYQRCFOhuHpfr9MdH-v1RMtRI5e2gdpm3mkezbyeksj_2Q/viewform?fbclid=IwAR0HR3E2cdGBfG38B-3XvI79dCQ99ZCAp0AUdrfSewvjmhzpudug1qu1Wco) to give your input!
 
-We welcome anyone interested to [join the BiPS slack!](https://bipstalk.slack.com/archives/C013VCH4524)
+We welcome anyone interested to [join the BiPS teams!](https://teams.microsoft.com/l/team/19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2/conversations?groupId=e3cb8047-564c-44df-a290-b786c843ee71&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083)
 
 <code>
 &nbsp;
