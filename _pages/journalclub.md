@@ -10,6 +10,7 @@ We welcome anyone to join our weekly journal club! Currently we meet on Fridays 
 
 | Date | Presenter | Title | Journal information | DOI |
 |:----------:|:--------------:|:------------------------------------------------------------------------------:|:------------------------------------:|:-----------------------------------------:|
+| June 19th | Soheil Soltani | Harmonic optical tomography of nonlinear structures | Nature Photonics (2020)|<https://doi.org/10.1038/s41566-020-0638-5>|
 | June 12th | Paloma | Real-time 3D movement correction for two-photon imaging in behaving animals | Nature Methods (2020) | <https://doi.org/10.1038/s41592-020-0851-7> |
 | June 5th | Nischita Kaza | Endo-microscopy beyond the Abbe and Nyquist limits | Light: Science & Applications (2020) | <https://doi.org/10.1038/s41377-020-0308-x> |
 | May29th | Francisco Robles | High-speed interferometric imaging reveals dynamics of neuronal deformation during the action potential | PNAS (2020) | <https://doi.org/10.1073/pnas.1920039117> |
