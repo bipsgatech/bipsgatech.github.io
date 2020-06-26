@@ -50,7 +50,7 @@ google_analytics: UA-43339302-11
 # then add in the baseurl here, like this: "/repository-name"
 
 baseurl: ''
-baseurl: 'https://bipsgatech.github.io/bipstest.github.io/'
+baseurl: 'https://bipsgatech.github.io/'
 
 permalink: /:title/
 
