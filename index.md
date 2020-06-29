@@ -4,13 +4,14 @@ layout: splash
 # permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/cells1.png
+  # overlay_color: "#000"
+  # overlay_filter: "0.0" #"0.5"
+  # background-image: ""
+  overlay_image: assets/images/mitochondria in BPAE cells.png
   actions:
     - label: "Join Us!"
       url: "https://teams.microsoft.com/l/team/19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2/conversations?groupId=e3cb8047-564c-44df-a290-b786c843ee71&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083"
-  caption: "Photo credit: [**aatbio**](https://www.aatbio.com/products/cell-navigator-mitochondrion-staining-kit-deep-red-fluorescence)"
+  caption: "Photo credit: [**Mandracchia et. al.** *Nat. Comms.* 2020](hhttps://www.nature.com/articles/s41467-019-13841-8)"
 excerpt: "  BiPS (Biomedical Photonics Society) is a student-run organization that aims to bring together individuals from diverse backgrounds with a passion for optics and photonics geared towards biomedical applications."
 intro: 
   - excerpt: 'Through a wide range of technical and social events, BiPS serves as a platform for the exchange of ideas, interdisciplinary research, and wider community engagement. BiPS hopes to foster a collaborative environment where members can form lasting connections to further their personal and professional goals.'
