@@ -50,7 +50,7 @@ feature_row3:
     btn_label: "Microsoft teams"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: assets/images/RecruitmentFlyer.jpg
+  - image_path: assets/images/RecruitmentFlyer.png
     alt: "placeholder image 2"
     title: "We have a workshop coming up!"
     excerpt: 'Please give some feedback about what you would like included!'
