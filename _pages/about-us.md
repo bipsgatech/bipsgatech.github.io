@@ -17,19 +17,19 @@ feature_row:
             - **Advisors:** Dr. Shu Jia & Dr. Francisco Robles
     "
 feature_row2:
-  - image_path: assets/images/Dylan.png
+  - image_path: assets/images/Dylan-square.png
     title: Dylan (President)
     excerpt: "Dylan (Jeonghwan Son) is a Ph.D student at the Wallace H. Coulter department of Biomedical Engineering. His research in Dr. Jia’s Systems Biophotonics group focuses on the development of new multimodality systems of optical fluorescence microscopy to open new biomedical applications, provide clinical translation, and benefit the next generation of scientists. He has been educated as a Biomedical Engineer at Yonsei University (South Korea) and StonyBrook University (NY, USA). He also enjoys playing squash, collecting perfumes, listening to jazz, and touring galleries outside of research." 
 
 feature_row3:
-  - image_path: assets/images/Paloma.png
+  - image_path: assets/images/Paloma-square.png
     title: Paloma (Vice President)
     excerpt: "Paloma Casteleiro Costa is a PhD student in the Optical Imaging and Spectroscopy Lab. Her research is on the development and implementation of label free imaging techniques to analyze tissue and biomedical samples. Particularly, her work focuses on implementing a novel phase imaging technique to better detect tumor regions and improve precision during surgery.  
 She grew up in La Coruña, Spain, received her BS in telecommunications Engineering from Universistat Politécnica de Valencia and holds a Masters in ECE from Georgia Tech, with a focus in image processing and machine learning. 
 When she’s not doing research she enjoys rock climbing, biking, playing guitar, reading, hiking and just spending quality time with others."
 
 feature_row4:
-  - image_path: assets/images/Nischita.png
+  - image_path: assets/images/Nischita-square.png
     title: Nischita (Treasurer)
     excerpt: "Nischita is a PhD. student in the Bioengineering program. Her research in the Robles’ lab focuses on phase retrieval techniques for hyperspectral imaging of cells and tissues in the UV region of the spectrum. She is interested in applying concepts from signal processing, machine learning, and convex optimization to develop algorithms and techniques for biomedical image acquisition and processing. Outside of research, she dabbles in art and cooking and is an ardent tennis and soccer fan. " 
 
