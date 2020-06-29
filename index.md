@@ -11,7 +11,7 @@ header:
   actions:
     - label: "Become a Member of BiPS"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSeGHpxetChLRiQuQbxx82m5o3tStfH6jWrOKjYWtoLdh9d0jw/viewform"
-  caption: "Photo credit: [**Mandracchia et. al.** *Nat. Comms.* 2020](hhttps://www.nature.com/articles/s41467-019-13841-8)"
+  caption: "Photo credit: [**Mandracchia et. al.** *Nat. Comms.* 2020](https://www.nature.com/articles/s41467-019-13841-8)"
 excerpt: "  BiPS (Biomedical Photonics Society) is a student-run organization that aims to bring together individuals from diverse backgrounds with a passion for optics and photonics geared towards biomedical applications. Join us today!"
 intro: 
   - excerpt: 'Through a wide range of technical and social events, BiPS serves as a platform for the exchange of ideas, interdisciplinary research, and wider community engagement. BiPS hopes to foster a collaborative environment where members can form lasting connections to further their personal and professional goals.'
