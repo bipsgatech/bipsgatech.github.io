@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/cells1.png
   actions:
     - label: "Join Us!"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://teams.microsoft.com/l/team/19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2/conversations?groupId=e3cb8047-564c-44df-a290-b786c843ee71&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083"
   caption: "Photo credit: [**aatbio**](https://www.aatbio.com/products/cell-navigator-mitochondrion-staining-kit-deep-red-fluorescence)"
 excerpt: "  BiPS (Biomedical Photonics Society) is a student-run organization that aims to bring together individuals from diverse backgrounds with a passion for optics and photonics geared towards biomedical applications."
 intro: 
@@ -53,7 +53,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "We have a workshop coming up!"
     excerpt: 'Please give some feedback about what you would like included!'
-    url: "#test-link"
+    url: "https://forms.gle/6tWRqDcCzdk7XfeJA"
     btn_label: "Give feedback"
     btn_class: "btn--primary"
 ---
@@ -64,8 +64,8 @@ feature_row4:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
 
-{% include feature_row id="feature_row3" type="right" %}
+<!-- {% include feature_row id="feature_row3" type="right" %} -->
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
