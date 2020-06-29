@@ -37,11 +37,39 @@ feature_row5:
   - image_path: assets/images/tara.png
     title: Tara (Secretary/Webmaster)
     excerpt: "Tara is a PhD student and NSF Graduate Research Fellow in the Wallace H. Coulter Biomedical Engineering department who works in Erin Buckley’s lab at Emory University. She obtained a Bachelor of Arts degree from Earlham College with major concentrations in Physics and Philosophy and a minor concentration in Computer Science. She enjoys pursuing opportunities to teach at all levels and exploring interdisciplinary research questions. Her interests outside of research include gardening, listening to podcasts, drinking tea, or any combination thereof." 
+
+feature_row6:
+  - image_path: assets/images/pacorobles2.png
+    alt: ""
+    title: "Francisco Robles"
+    excerpt: "Now you know."
+    url: "https://robleslab.gatech.edu/"
+    btn_label: "Lab Website"
+    btn_class: "btn--primary"
+    excerpt: "Optical technologies have enabled key advances in biology and medicine due to their ability to assess many chemical and physical properties of cells and tissues with great flexibility (e.g., in-vivo, non-invasively, over a wide range of length scales, and over long periods of time). The OIS lab seeks to continue advancing optical technologies to help improve our understanding of biological processes and our ability to identify disease. Specifically, we focus on developing and applying label-free linear and nonlinear spectroscopic methods, along with advanced signal processing methods, to gain access to novel forms of functional and molecular contrast for a variety of applications, including cancer detection, tumor margin assessment, hematology, and neuron functional imaging."
+  - image_path: assets/images/shu-jia.png
+    title: "Shu Jia"
+    excerpt: "Our research is focused on systems biophotonics and imaging technology, such as single-molecule biophotonics, super-resolution microscopy, advanced optical and computational microscopy, imaging physics, biomedical imaging instrumentation and devices, and imaging microrobotics and machine-intelligence. We strive to innovate in ways that both advance the imaging science and also impact biological and translational research. 
+    
+  Toward the application end, we have expertise in a wide range of imaging instrumentation and techniques, such as super-resolution, adaptive optics, light-field, miniaturized, light-sheet, computational microscopy and endoscopy. Collaboratively, these techniques are expected to address the challenges in 1) mapping functional networks of biological systems from molecules to the whole organ, 2) imaging collective patterns of cellular activities flowing within these networks in freely behaving animals, and 3) integrating and transforming molecular and cellular imaging information into health and disease."
+    url: "https://sites.google.com/site/thejialab/"
+    btn_label: "Lab Website"
+    btn_class: "btn--primary"
+
+  # - image_path: assets/images/pacorobles.png
+  #   exerpt: "Systems Biophotonics single-molecule biophotonics, super-resolution microscopy, advanced optical and computational microscopy, imaging physics, biomedical imaging instrumentation and devices, imaging microrobotics."  
+  # - image_path: assets/images/shu-jia.png
+  #   # title: [Professor Shu Jia](https://www.bme.gatech.edu/bme/faculty/Shu-Jia) (Lab website)[https://sites.google.com/site/thejialab/]
+  #   exerpt: "Systems Biophotonics: single-molecule biophotonics, super-resolution microscopy, advanced optical and computational microscopy, imaging physics, biomedical imaging instrumentation and devices, imaging microrobotics.
+  #   We strive to innovate in ways that both advance the imaging science and also impact biological and translational research. We are particularly interested in new imaging physics, bottom-up opto-electronic system design, as well as new principles for light propagation, light-matter interaction and image formation in complex biological materials, especially at the single-molecule level. Toward the application end, we have expertise in a wide range of imaging instrumentation and techniques, such as super-resolution, adaptive optics, light-field, miniaturized, light-sheet, computational microscopy and endoscopy."
+
 ---
 
 <br />
 
 {% include feature_row type="left" %}
+
+# Committee Members
 
 {% include feature_row id="feature_row2" type="left" %}
 
@@ -50,3 +78,7 @@ feature_row5:
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="left" %}
+
+# Advisors
+
+{% include feature_row id="feature_row6"%}

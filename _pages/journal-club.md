@@ -20,13 +20,17 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/IMG_2783.JPG
   actions:
-    - label: "Sign Up"
+    - label: "Add me to the list!"
       url: "https://forms.gle/HEAmh6rj17ta19cb8"
 #   caption: "Photo credit: [**aatbio**](https://www.aatbio.com/products/cell-navigator-mitochondrion-staining-kit-deep-red-fluorescence)"
-excerpt: "  An up-to-date list of papers presented in the weekly imaging journal club cohosted BiPS and [Professor Robles](https://robleslab.gatech.edu/) will be maintained on this page. Sign up below to recieve email updates about upcoming "
+excerpt: "[Professor Robles](https://robleslab.gatech.edu/) and BiPS invite you to participate in our weekly Imaging Journal Club, currently held every Friday at 4pm. Sign up below to recieve email updates about upcoming meetings."
 ---
 
-Currently we meet on Fridays at 4pm over bluejeans. We welcome new members!
+Our weekly journal club is a fun way to learn more about the field of optics and practice your presentation skills in a low pressure environment among your peers. Currently we meet on Fridays at 4pm over bluejeans. Nervous to present right away? Don't worry! We welcome new members to come by and participate anytime during the semester, then decide if you would like to sign up with the next round of presenters. 
+
+Check out some of the past presented papers below:
+
+## Summer 2020
 
 | Date | Presenter | Title | Journal information | DOI |
 |----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
