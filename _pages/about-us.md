@@ -8,7 +8,7 @@ feature_row:
     excerpt: "
             - **President:** Jeonghwan Son (Dylan), PhD Student in Biomedical Engineering
    
-            - **Vice-President:** Paloma Costa, PhD Student in Electrical and Computer Engineering
+            - **Vice-President:** Paloma Casteleiro Costa, PhD Student in Electrical and Computer Engineering
 
             - **Treasurer/Social Media:** Nischita Kaza, PhD Student in Bio Engineering (Home school: ECE)
 
