@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/mitochondria in BPAE cells.png
   actions:
     - label: "Become a Member of BiPS"
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSeGHpxetChLRiQuQbxx82m5o3tStfH6jWrOKjYWtoLdh9d0jw/viewform"
+      url: "https://forms.gle/eV8r3rbMwbVZXJUJ9"
   caption: "Photo credit: [**Mandracchia et. al.** *Nat. Comms.* 2020](https://www.nature.com/articles/s41467-019-13841-8)"
 excerpt: "  BiPS (Biomedical Photonics Society) is a student-run organization that aims to bring together individuals from diverse backgrounds with a passion for optics and photonics geared towards biomedical applications. Join us today!"
 intro: 
