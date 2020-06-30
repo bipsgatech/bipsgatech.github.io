@@ -36,7 +36,7 @@ feature_row4:
 feature_row5:
   - image_path: assets/images/tara.png
     title: Tara (Secretary/Webmaster)
-    excerpt: "Tara is a PhD student and NSF Graduate Research Fellow in the Wallace H. Coulter Biomedical Engineering department who works in Erin Buckley’s lab at Emory University. She obtained a Bachelor of Arts degree from Earlham College with major concentrations in Physics and Philosophy and a minor concentration in Computer Science. She enjoys pursuing opportunities to teach at all levels and exploring interdisciplinary research questions. Her interests outside of research include gardening, listening to podcasts, drinking tea, or any combination thereof." 
+    excerpt: "Tara is a PhD student and NSF Graduate Research Fellow in the Wallace H. Coulter Biomedical Engineering department who works in [Erin Buckley’s](http://buckleylab.gatech.edu/) lab at Emory University. She obtained a Bachelor of Arts degree from Earlham College with major concentrations in Physics and Philosophy and a minor concentration in Computer Science. She enjoys pursuing opportunities to teach at all levels and exploring interdisciplinary research questions. Her interests outside of research include gardening, listening to podcasts, drinking tea, or any combination thereof." 
 
 feature_row6:
   - image_path: assets/images/pacorobles-scaled.png
