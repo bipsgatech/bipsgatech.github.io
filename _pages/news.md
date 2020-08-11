@@ -12,6 +12,10 @@ header:
 excerpt: " "
 ---
 
+**8/4/2020** Session 2 of Microscopy 101 - "Microscopy for Biological Imaging". Watch the recording [here](https://youtu.be/aWmRhphZeyk)!
+
+**7/29/2020** Session 1 of Microscopy 101 - "Introduction to Optics". Watch the recording [here](https://youtu.be/X7hKF_OKwKw)
+
 **6/3/2020** The BiPS [Microsoft Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2f_%23%2fl%2fteam%2f19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2%2fconversations%3fgroupId%3de3cb8047-564c-44df-a290-b786c843ee71%26tenantId%3d482198bb-ae7b-4b25-8b7a-6d7f32faa083&type=team&deeplinkId=b0e75d35-373e-4904-98bc-90e42ff390ee&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true) group now has more than 40 members! Come join us!
 
 **6/3/2020** Patrick Ledwig wins the first BiPS trivia night! Congrats Patrick! 
