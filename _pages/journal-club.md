@@ -34,7 +34,10 @@ Check out some of the past presented papers below:
 
 | Date | Presenter | Title | Journal information | DOI |
 |----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
-| July 24th | Dylan Son     |  Virtual-freezing fluorescence imaging flow cytometry,                                                          | Nature Communications (2020)           | <https://doi.org/10.1038/s41467-020-14929-2> |
+|Aug 14th	| Nischita Kaza |	Phase imaging with an untrained neural network | Light: Science & Applications (2020) |<https://doi.org/10.1038/s41377-020-0302-3>	|																					
+| Aug 7th |	Xavier Audier |	Raman image-activated cell sorting |	Nature Communications (2020)	| <https://doi.org/10.1038/s41467-020-17285-3>| 
+|July 31th |	Patrick Ledwig	| Airy-beam tomographic microscopy |	Optica (2020) |	<https://doi.org/10.1364/OPTICA.389894>	|
+| July 24th | Dylan Son|  Virtual-freezing fluorescence imaging flow cytometry  | Nature Communications (2020)| <https://doi.org/10.1038/s41467-020-14929-2> |
 | July 17th | Tara Urner    | Diffuse Speckle Contrast Analysis (DSCA) for Deep Tissue Blood Flow Monitoring                                  | Advanced Biomedical Engineering (2020) | <https://doi.org/10.14326/abe.9.21>          |
 | July 10th | Jake Guang    | Three-dimensional holographic optical manipulation through a high-numerical-aperture soft-glass multimode fibre | Nature Photonics (2017)                | <https://doi.org/10.1038/s41566-017-0053-8>  |
 | July 3th  | Ashkan Ojaghi |  Stain-free histopathology by programmable supercontinuum pulses                                                | Nature Photonics (2016)                | <https://doi.org/10.1038/nphoton.2016.94>    |
