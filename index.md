@@ -11,6 +11,8 @@ header:
   actions:
     - label: "Become a Member of BiPS"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSeKPdsTHyBcbTuTE4hbpFRaVFWamesXqUQYzDSWNA4WnI9zbw/viewform"
+    - label: "Join BiPS Microsoft Teams"
+      url: "https://teams.microsoft.com/l/team/19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2/conversations?groupId=e3cb8047-564c-44df-a290-b786c843ee71&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083"
   caption: "Photo credit: [**Mandracchia et. al.** *Nat. Comms.* 2020](https://www.nature.com/articles/s41467-019-13841-8)"
 excerpt: "  BiPS (Biomedical Photonics Society) is a student-run organization that aims to bring together individuals from diverse backgrounds with a passion for optics and photonics geared towards biomedical applications. Join us today!"
 intro: 
@@ -42,12 +44,12 @@ feature_row2:
     btn_label: "Become an OSA member"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: assets/images/Project-Team.jpg
+  - image_path: assets/images/BipsTeams/Slide1.png
     alt: "placeholder image 2"
     title: "Join our community!"
     excerpt: 'BiPS is on Microsoft Teams!'
-    url: "#test-link"
-    btn_label: "Microsoft teams"
+    url: "https://teams.microsoft.com/l/team/19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2/conversations?groupId=e3cb8047-564c-44df-a290-b786c843ee71&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083"
+    btn_label: "Join"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: assets/images/Microscopy101.png
@@ -67,6 +69,28 @@ feature_row4:
 
 <!-- {% include feature_row %} -->
 
-<!-- {% include feature_row id="feature_row3" type="right" %} -->
+<!-- {% include feature_row id="feature_row3" type="left" %} -->
 
-{% include feature_row id="feature_row4" type="left" %}
+<!-- {% include feature_row id="feature_row4" type="right" %} -->
+
+**8/12/2020** Session 3 of Microscopy 101 - "Image Processing for Microscopy". Watch the recording [here](https://www.youtube.com/watch?v=EOSELo_BMqQ)!
+
+**8/4/2020** Session 2 of Microscopy 101 - "Microscopy for Biological Imaging". Watch the recording [here](https://youtu.be/aWmRhphZeyk)!
+
+**7/29/2020** Session 1 of Microscopy 101 - "Introduction to Optics". Watch the recording [here](https://youtu.be/X7hKF_OKwKw)!
+
+**6/17/2020** Microscopy 101 Virtual Sessions announced!  
+  
+![image](assets/images/Microscopy101_small.png)
+
+**6/3/2020** The BiPS [Microsoft Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2f_%23%2fl%2fteam%2f19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2%2fconversations%3fgroupId%3de3cb8047-564c-44df-a290-b786c843ee71%26tenantId%3d482198bb-ae7b-4b25-8b7a-6d7f32faa083&type=team&deeplinkId=b0e75d35-373e-4904-98bc-90e42ff390ee&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true) group now has more than 40 members! Come join us!
+
+**6/3/2020** Patrick Ledwig wins the first BiPS trivia night! Congrats Patrick! 
+
+**5/20/2020** Distributed [survey](https://docs.google.com/forms/d/e/1FAIpQLSfTlYQRCFOhuHpfr9MdH-v1RMtRI5e2gdpm3mkezbyeksj_2Q/viewform) for co-hosting a workshop event with BBUGS.
+
+**5/18/2020** We’ve been approved as an official OSA student chapter! 
+
+**3/13/2020** We’re listed as an [official BME Graduate Organization](https://bme.gatech.edu/bme/get-involved)
+
+**3/06/2020** Our NEW student organization has been officially chartered by Georgia Tech!
