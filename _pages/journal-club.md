@@ -28,12 +28,31 @@ excerpt: "[Professor Robles](https://robleslab.gatech.edu/) and BiPS invite you 
 
 Our weekly journal club is a fun way to learn more about the field of optics and practice your presentation skills in a low pressure environment among your peers. Currently we meet on Fridays at 4pm over bluejeans. Nervous to present right away? Don't worry! We welcome new members to come by and participate anytime during the semester, then decide if you would like to sign up with the next round of presenters. 
 
-Check out some of the past presented papers below:
+Upcoming dates and presenters as well as some of the past presented papers listed below:
+
+## Fall 2020
+
+| Date | Presenter | Title | Journal information | DOI |
+|----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
+|September 4th|	Dylan Son|Imaging Volumetric Dynamics at High Speed in Mouse and Zebrafish Brain With Confocal Light Field Microscopy|Nature Biotechnology (2020)|<https://doi.org/10.1038/s41587-020-0628-7>|
+|September 11th|	Tara Urner|||
+|September 18th|	Patrick Ledwig||||
+|September 25th| Rob Nikoli||||
+|October 2nd|	Ashkan Ojaghi||||
+|October 9th|	Paloma Casteleiro||||
+|October 16th|	Nischita Kaza||||
+|October 23rd|	Dr. Jake (Zhe) Guang||||
+|October 30th|	Dr. Xavier Audier||||
+|November 6th|	Dr. Paco Robles||||
+|November 13th|	Dr. Soheil Soltani||||
+|November 20th|	Rowan Brothers||||
 
 ## Summer 2020
 
 | Date | Presenter | Title | Journal information | DOI |
 |----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
+Aug 20th |	Soheil Soltani |	Deep Tissue Space-Gated Microscopy via Acousto-Optic Interaction |	Nature Communications (2020) |	<https://doi.org/10.1038/s41467-020-14514-7> |
+Aug 21th|	Paloma|	DeepSTORM3D: Dense 3D Localization Microscopy and PSF Design by Deep Learning	| Nature Methods (2020)|	<https://doi.org/10.1038/s41592-020-0853-5>|
 |Aug 14th	| Nischita Kaza |	Phase imaging with an untrained neural network | Light: Science & Applications (2020) |<https://doi.org/10.1038/s41377-020-0302-3>	|																					
 | Aug 7th |	Xavier Audier |	Raman image-activated cell sorting |	Nature Communications (2020)	| <https://doi.org/10.1038/s41467-020-17285-3>| 
 |July 31th |	Patrick Ledwig	| Airy-beam tomographic microscopy |	Optica (2020) |	<https://doi.org/10.1364/OPTICA.389894>	|
