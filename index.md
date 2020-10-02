@@ -73,6 +73,17 @@ feature_row4:
 
 <!-- {% include feature_row id="feature_row4" type="right" %} -->
 
+
+**9/15/2020** BiPS now has more than 50 members! [Come join our Microsoft Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fteam%2F19%3A946d63e6748d4168a009cd653a12bdc8%40thread.tacv2%2Fconversations%3FgroupId%3De3cb8047-564c-44df-a290-b786c843ee71%26tenantId%3D482198bb-ae7b-4b25-8b7a-6d7f32faa083&type=team&deeplinkId=6f42a7be-5ed6-4db3-aa3f-91140f3c5635&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)! 
+
+**8/31/2020** BiPS has initiated an outreach bridge with Inspiritus to connect virtual tutors needed for refugee & immigrant high school students. If you are interested, sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScfJl9P4Arbc9it4OtHKM4U7lvp2vJGv3Qh6SJpYUNc_i_ibA/viewform)! Contact Paloma with any questions.
+
+![image](assets/images/inspiritus.jpg)
+
+**8/14/2020** We discussed 21 publications at the weekly [Biophotonics journal club](https://bipsgatech.github.io/journal-club) during Summer 2020!  
+
+**8/12/2020** Microscopy 101 Virtual Sessions were a success, with more than 70 attendants over all workshops! Thank you everyone for attending. 
+
 **8/12/2020** Session 3 of Microscopy 101 - "Image Processing for Microscopy". Watch the recording [here](https://www.youtube.com/watch?v=EOSELo_BMqQ)!
 
 **8/4/2020** Session 2 of Microscopy 101 - "Microscopy for Biological Imaging". Watch the recording [here](https://youtu.be/aWmRhphZeyk)!

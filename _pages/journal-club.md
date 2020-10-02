@@ -35,10 +35,10 @@ Upcoming dates and presenters as well as some of the past presented papers liste
 | Date | Presenter | Title | Journal information | DOI |
 |----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
 |September 4th|	Dylan Son|Imaging Volumetric Dynamics at High Speed in Mouse and Zebrafish Brain With Confocal Light Field Microscopy|Nature Biotechnology (2020)|<https://doi.org/10.1038/s41587-020-0628-7>|
-|September 11th|	Tara Urner|||
-|September 18th|	Patrick Ledwig||||
-|September 25th| Rob Nikoli||||
-|October 2nd|	Ashkan Ojaghi||||
+|September 11th|	Tara Urner|Non-invasive Diffuse Correlation Tomography Reveals Spatial and Temporal Blood Flow Differences in Murine Bone Grafting Approaches	|Biomedical Optics Express (2016)|<https://doi.org/10.1364/BOE.7.003262>|
+|September 18th|	Patrick Ledwig|-|-|-|
+|September 25th| Rob Nikoli|Super-resolution Localization Photoacoustic Microscopy Using Intrinsic Red Blood Cells as Contrast Absorbers|Light: Science and Application (2019)|<https://doi.org/10.1038/s41377-019-0220-4>|
+|October 2nd|	Ashkan Ojaghi| Classification of T-cell activation via autofluorescence lifetime imaging|Nature Biomedical Engineering (2020)|<https://doi.org/10.1038/s41551-020-0592-z>|
 |October 9th|	Paloma Casteleiro||||
 |October 16th|	Nischita Kaza||||
 |October 23rd|	Dr. Jake (Zhe) Guang||||
