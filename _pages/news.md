@@ -12,6 +12,8 @@ header:
 excerpt: " "
 ---
 
+**10/07/2020** BiPS hosted a ‘5-Minute Research Presentation’ event for members to share their research and create a student network across Georgia Tech and Emory. 
+
 **8/12/2020** Session 3 of Microscopy 101 - "Image Processing for Microscopy". Watch the recording [here](https://www.youtube.com/watch?v=EOSELo_BMqQ)!
 
 **8/4/2020** Session 2 of Microscopy 101 - "Microscopy for Biological Imaging". Watch the recording [here](https://youtu.be/aWmRhphZeyk)!
