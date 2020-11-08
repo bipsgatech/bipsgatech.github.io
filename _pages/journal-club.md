@@ -36,14 +36,14 @@ Upcoming dates and presenters as well as some of the past presented papers liste
 |----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
 |September 4th|	Dylan Son|Imaging Volumetric Dynamics at High Speed in Mouse and Zebrafish Brain With Confocal Light Field Microscopy|Nature Biotechnology (2020)|<https://doi.org/10.1038/s41587-020-0628-7>|
 |September 11th|	Tara Urner|Non-invasive Diffuse Correlation Tomography Reveals Spatial and Temporal Blood Flow Differences in Murine Bone Grafting Approaches	|Biomedical Optics Express (2016)|<https://doi.org/10.1364/BOE.7.003262>|
-|September 18th|	Patrick Ledwig|-|-|-|
+|September 18th|	Patrick Ledwig|Dynamic conjugate F-SHARP microscopy|Light: Science and Application|<https://doi.org/10.1038/s41377-020-00348-x>|
 |September 25th| Rob Nikolai|Super-resolution Localization Photoacoustic Microscopy Using Intrinsic Red Blood Cells as Contrast Absorbers|Light: Science and Application (2019)|<https://doi.org/10.1038/s41377-019-0220-4>|
 |October 2nd|	Ashkan Ojaghi| Classification of T-cell activation via autofluorescence lifetime imaging|Nature Biomedical Engineering (2020)|<https://doi.org/10.1038/s41551-020-0592-z>|
-|October 9th|	Paloma Casteleiro||||
-|October 16th|	Nischita Kaza||||
-|October 23rd|	Dr. Jake (Zhe) Guang||||
-|October 30th|	Dr. Xavier Audier||||
-|November 6th|	Dr. Paco Robles||||
+|October 9th|	Paloma Casteleiro|Converting lateral scanning into axial focusing to speed up three-dimensional microscopy|BioRxiv|<https://doi.org/10.1101/2020.03.06.981472>|
+|October 16th|	Michael Giacomelli, Ph.D.|	Research talk: multiphoton and fluorescence imaging for surgical pathology and clinical medicine|Invited speaker|<https://www.urmc.rochester.edu/labs/giacomelli.aspx>|
+|October 23rd|	Dr. Jake (Zhe) Guang|Optical fiber bundles: Ultra-slim light field imaging probes|Science Advances|<https://doi.org/0.1126/sciadv.aav1555>|
+|October 30th|	Dr. Xavier Audier|Three-photon neuronal imaging in deep mouse brain|Optica|<https://doi.org/10.1364/OPTICA.395825>|
+|November 6th|	Dr. Paco Robles|High-sensitivity and high-specificity biomechanical imaging by stimulated Brillouin scattering microscopy|Nature Methods|<https://doi.org/10.1038/s41592-020-0882-0>|
 |November 13th|	Dr. Soheil Soltani||||
 |November 20th|	Rowan Brothers||||
 
