@@ -20,9 +20,44 @@ main:
   #   url: /news
 
 docs:
-  - title: Websites for optics
+  - title: Optics Websites
     children:
       - title: "Nikon's MicroscopyU"
         url: https://www.microscopyu.com/microscopy-basics
-  - title: Other Things?
+      - title: "Zeiss Website"
+        url: http://zeiss-campus.magnet.fsu.edu
+      - title: "Basic Concepts in Microscopy - Zeiss"
+        url: https://www.zeiss.com/microscopy/us/solutions/reference/basic-microscopy.html
+      - title: "The Microscopy Knowledge Portal - Leica"
+        url: https://www.leica-microsystems.com/science-lab/science-lab-home/
+      - title: "Microscopy Resource Center - Olympus"
+        url: https://www.olympus-lifescience.com/en/microscope-resource/
+      - title: "Explore Hamamatsu"
+        url: http://hamamatsu.magnet.fsu.edu/explore/
+      - title: "Myscope Microscopy Training"
+        url: https://myscope.training
+      - title: "Molecular Expressions"
+        url: https://micro.magnet.fsu.edu
+      - title: "The Virtual Microscope - UIUC"
+        url: http://virtual.itg.uiuc.edu
+      
+  - title: Videos and Youtube Channels
+    children:
+      - title: "iBiology Microscopy Course"
+        url: https://www.youtube.com/playlist?list=PLQFc-Dxlf4pSHREZvz41xHFSEp65iNkBL
+      - title: "Microcourses"
+        url: https://www.youtube.com/channel/UC4cOKa0TZK8CQhzSQqfwuMQ
+      - title: "Webinar series: Intro to Light Microscopy"
+
+  - title: Forumns
+    children:
+      - title: "Microlist forum"
+        url: https://forum.microlist.org/ 
+      - title: "Image.sc"
+        url: https://forum.image.sc
+
+  - title: Lists and Resource Databases
+    children:
+      - title: "Microlist"
+        url: https://www.microlist.org
 
