@@ -73,6 +73,12 @@ feature_row4:
 
 <!-- {% include feature_row id="feature_row4" type="right" %} -->
 
+
+
+**11/20/2020** We discussed 12 publications at the weekly [Biophotonics journal club](https://bipsgatech.github.io/journal-club) during Fall 2020! 
+
+**10/27/2020** BiPS had an all member meeting to celebrate past initiatives and gather ideas for the next activities. Thank you all for attending and sharing invaluable ideas!! 
+
 **10/07/2020** BiPS hosted a ‘5-Minute Research Presentation’ event for members to share their research and create a student network across Georgia Tech and Emory.
 
 **9/15/2020** BiPS now has more than 50 members! [Come join our Microsoft Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fteam%2F19%3A946d63e6748d4168a009cd653a12bdc8%40thread.tacv2%2Fconversations%3FgroupId%3De3cb8047-564c-44df-a290-b786c843ee71%26tenantId%3D482198bb-ae7b-4b25-8b7a-6d7f32faa083&type=team&deeplinkId=6f42a7be-5ed6-4db3-aa3f-91140f3c5635&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)! 
