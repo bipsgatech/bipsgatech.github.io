@@ -30,6 +30,24 @@ Our weekly journal club is a fun way to learn more about the field of optics and
 
 Upcoming dates and presenters as well as some of the past presented papers listed below:
 
+## Spring 2021
+
+| Date | Presenter | Title | Journal information | DOI |
+|----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
+|January 8th|Caroline Filan|Rapid assessment of breast tumor margins using deep ultraviolet fluorescence scanning microscopy|Journal Of Biomedical Optics (2020)|<https://10.1117/1.JBO.25.12.126501>|
+|January 15th|Nischita Kaza||||
+|January 22nd|Tara Urner||||
+|January 29th|Dylan Son||||
+|February 5th|Patrick Ledwig||||
+|February 12st|Ashkan Ojaghi||||
+|February 19th|Dr. Jake (Zhe) Guang||||
+|February 26th|TBD||||
+|March 5th|TBD||||
+|March 12th|TBD||||
+|March 19th|Dr. Soheil Soltani||||
+|March 26th|Paloma Casteleiro||||
+
+
 ## Fall 2020
 
 | Date | Presenter | Title | Journal information | DOI |
@@ -44,8 +62,8 @@ Upcoming dates and presenters as well as some of the past presented papers liste
 |October 23rd|	Dr. Jake (Zhe) Guang|Optical fiber bundles: Ultra-slim light field imaging probes|Science Advances|<https://doi.org/0.1126/sciadv.aav1555>|
 |October 30th|	Dr. Xavier Audier|Three-photon neuronal imaging in deep mouse brain|Optica|<https://doi.org/10.1364/OPTICA.395825>|
 |November 6th|	Dr. Paco Robles|High-sensitivity and high-specificity biomechanical imaging by stimulated Brillouin scattering microscopy|Nature Methods|<https://doi.org/10.1038/s41592-020-0882-0>|
-|November 13th|	Dr. Soheil Soltani||||
-|November 20th|	Rowan Brothers||||
+|November 13th|	Dr. Soheil Soltani| High-contrast multifocus microscopy with a single camera and z-splitter prism|Optica (2020)|<https://doi.org/10.1364/OPTICA.404678>|
+|November 20th|	Rowan Brothers|Time-Domain Diffuse Correlation Spectroscopy|Optica (2016)|<https://doi.org/10.1364/OPTICA.3.001006>|
 
 ## Summer 2020
 
