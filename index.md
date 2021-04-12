@@ -75,9 +75,9 @@ feature_row4:
 
 **3/31/2021** BiPS received “Emerging Excellence Award” - Up with the White & Gold 2021 by the Center for Student Engagement and the Student Government Association
 
-![image](assets/images/MicrosoftTeams-image(8).png)
+![image](https://github.com/bipsgatech/bipsgatech.github.io/blob/d83964334a580a4ba347589239a9ace84e00db3e/assets/images/MicrosoftTeams-image%20(9).png)
 
-![image](assets/images/MicrosoftTeams-image(9).png)
+![image](https://github.com/bipsgatech/bipsgatech.github.io/blob/a963f4090379d62799223f60b69e27785a751de1/assets/images/MicrosoftTeams-image%20(8).png)
 
 **3/12/2021**  BiPS members met for a picnic in Piedmont park. 
 
