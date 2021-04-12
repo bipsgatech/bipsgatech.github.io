@@ -73,7 +73,17 @@ feature_row4:
 
 <!-- {% include feature_row id="feature_row4" type="right" %} -->
 
+**3/31/2021** BiPS received “Emerging Excellence Award” - Up with the White & Gold 2021 by the Center for Student Engagement and the Student Government Association
 
+![image](assets/images/MicrosoftTeams-image(8).png)
+
+![image](assets/images/MicrosoftTeams-image(9).png)
+
+**3/12/2021**  BiPS members met for a picnic in Piedmont park. 
+
+**2/10/2021** BiPS held an all member meeting on Feb 10th 2021. 
+
+**1/1/2021** Happy new year everyone! Here’s to a good 2021 
 
 **11/20/2020** We discussed 12 publications at the weekly [Biophotonics journal club](https://bipsgatech.github.io/journal-club) during Fall 2020! 
 
