@@ -12,6 +12,14 @@ header:
 excerpt: " "
 ---
 
+**3/31/2021** BiPS received “Emerging Excellence Award” - Up with the White & Gold 2021 by the Center for Student Engagement and the Student Government Association
+
+**3/12/2021**  BiPS members met for a picnic in Piedmont park. 
+
+**2/10/2021** BiPS held an all member meeting on Feb 10th 2021. 
+
+**1/1/2021** Happy new year everyone! Here’s to a good 2021 
+
 **10/07/2020** BiPS hosted a ‘5-Minute Research Presentation’ event for members to share their research and create a student network across Georgia Tech and Emory. 
 
 **8/12/2020** Session 3 of Microscopy 101 - "Image Processing for Microscopy". Watch the recording [here](https://www.youtube.com/watch?v=EOSELo_BMqQ)!
