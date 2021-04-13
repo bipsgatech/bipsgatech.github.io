@@ -33,9 +33,9 @@ Upcoming dates and presenters as well as some of the past presented papers liste
 ## Summer 2021
 | Date | Presenter | Title | Journal information | DOI |
 |----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
-|April 2nd|Dylan Son||||
+|April 2nd|Dylan Son|||||
 |April 16th|Tara Urner||||
-|April 23rd|**Visiting proferssor:** Dr. Jonathan Liu|"Nondestructive 3D pathology with open-top light-sheet microscopy for precision medicine"|||
+|April 23rd|**Visiting proferssor:** Dr. Jonathan Liu|"Nondestructive 3D pathology with open-top light-sheet microscopy for precision medicine"||||
 |May 7th|Ashkan Ojaghi||||
 |May 14th|Dr. Jake Guang||||
 |May 21st|**Visiting professor:** Dr. Roarke Horstmeyer||||
