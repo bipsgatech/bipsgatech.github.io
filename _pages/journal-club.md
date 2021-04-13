@@ -35,17 +35,14 @@ Upcoming dates and presenters as well as some of the past presented papers liste
 | Date | Presenter | Title | Journal information | DOI |
 |----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
 |January 8th|Caroline Filan|Rapid assessment of breast tumor margins using deep ultraviolet fluorescence scanning microscopy|Journal Of Biomedical Optics (2020)|<https://10.1117/1.JBO.25.12.126501>|
-|January 15th|Nischita Kaza||||
-|January 22nd|Tara Urner||||
-|January 29th|Dylan Son||||
+|January 15th|Nischita Kaza|Miniscope3D: optimized single-shot miniature 3D fluorescence microscopy|Light Science Applications (2020)|<https://doi.org/10.1038/s41377-020-00403-7>|
+|January 22nd|Tara Urner|High-sensitivity multispeckle diffuse correlation spectroscopy|Neurophotonics (2020)|<https://doi.org/10.1117/1.NPh.7.3.035010>|
+|January 29th|Dylan Son|Super-Resolution Optofluidics Scanining Microsocpy|Lab on a Chip (2021)|<https://doi.org/10.1039/d0lc00889c>|
 |February 5th|Patrick Ledwig||||
-|February 12st|Ashkan Ojaghi||||
-|February 19th|Dr. Jake (Zhe) Guang||||
-|February 26th|TBD||||
-|March 5th|TBD||||
-|March 12th|TBD||||
-|March 19th|Dr. Soheil Soltani||||
-|March 26th|Paloma Casteleiro||||
+|February 12st|Ashkan Ojaghi|Intelligent image-based deformation-assisted cell sorting with molecular specificity|Nature Methods (2020)|<https://doi.org/10.1038/s41592-020-0831-y>|
+|February 19th|Dr. Jake (Zhe) Guang|Medical hyperspectral imaging: a review|Journal of Biomedical Optics (2014)|<https://doi.org/10.1117/1.JBO.19.1.010901>|
+|March 19th|Dr. Soheil Soltani|Microscopy with undetected photons in the mid-infrared|Science Advances (2020)|<https://doi.org/10.1126/sciadv.abd0264>|
+|March 26th|Dr. Xavier Audier|A Time-Encoded Technique for fibre-based hyperspectral broadband stimulated Raman microscopy|Nature Communications (2015)|<https://doi.org/10.1038/ncomms7784>|
 
 
 ## Fall 2020
