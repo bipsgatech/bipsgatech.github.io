@@ -45,7 +45,28 @@ Upcoming dates and presenters as well as some of the past presented papers liste
 |March 19th|Dr. Soheil Soltani|Microscopy with undetected photons in the mid-infrared|Science Advances (2020)|<https://doi.org/10.1126/sciadv.abd0264>|
 |March 26th|Dr. Xavier Audier|A Time-Encoded Technique for fibre-based hyperspectral broadband stimulated Raman microscopy|Nature Communications (2015)|<https://doi.org/10.1038/ncomms7784>|
 
+## Summer 2021
 
+| Date | Presenter | Title | Journal information | DOI |
+|----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
+|April 2nd|Dylan Son||||
+|April 16th|Tara Urner||||
+|April 23rd|**Visiting proferssor:** Dr. Jonathan Liu|"Nondestructive 3D pathology with open-top light-sheet microscopy for precision medicine"|||
+|May 7th|Ashkan Ojaghi||||
+|May 14th|Dr. Jake Guang||||
+|May 21st|**Visiting professor:** Dr. Roarke Horstmeyer||||
+|May 28th|Caroline Filan||||
+|June 4th|Vishy Gorti||||
+|June 11th|Dr. Paco Robles||||
+|June 18th|**Visiting professor:** Dr. Kenny Tao||||
+|June 25th|Nischita Kaza||||
+|July 9th|**Visiting professor:** Dr. Changhuei Yang||||
+|July 16th|Paloma Casteleiro||||
+|July 23rd|**Visiting professor:** Dr. Nicholas Durr||||
+|July 30th|Dr. Xavier Audier||||
+|August 6th|Dr. Soheil Soltani||||
+|August 13th|Patrick Ledwig||||
+|August 27th|Dylan Son||||
 
 ## Fall 2020
 
