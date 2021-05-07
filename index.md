@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/mitochondria in BPAE cells.png
   actions:
     - label: "Become a Member of BiPS"
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSeKPdsTHyBcbTuTE4hbpFRaVFWamesXqUQYzDSWNA4WnI9zbw/viewform"
+      url: "https://github.us10.list-manage.com/subscribe?u=d02f63a5bc4b80c8fe14d9089&id=6af9353721"
     - label: "Join BiPS Microsoft Teams"
       url: "https://teams.microsoft.com/l/team/19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2/conversations?groupId=e3cb8047-564c-44df-a290-b786c843ee71&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083"
   caption: "Photo credit: [**Mandracchia et. al.** *Nat. Comms.* 2020](https://www.nature.com/articles/s41467-019-13841-8)"
