@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/mitochondria in BPAE cells.png
   actions:
     - label: "Become a Member of BiPS"
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSeKPdsTHyBcbTuTE4hbpFRaVFWamesXqUQYzDSWNA4WnI9zbw/viewform"
+      url: "https://github.us10.list-manage.com/subscribe?u=d02f63a5bc4b80c8fe14d9089&id=6af9353721"
     - label: "Join BiPS Microsoft Teams"
       url: "https://teams.microsoft.com/l/team/19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2/conversations?groupId=e3cb8047-564c-44df-a290-b786c843ee71&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083"
   caption: "Photo credit: [**Mandracchia et. al.** *Nat. Comms.* 2020](https://www.nature.com/articles/s41467-019-13841-8)"
@@ -75,13 +75,13 @@ feature_row4:
 
 **3/31/2021** BiPS received “Emerging Excellence Award” - Up with the White & Gold 2021 by the Center for Student Engagement and the Student Government Association
 
-![image](https://github.com/bipsgatech/bipsgatech.github.io/blob/d83964334a580a4ba347589239a9ace84e00db3e/assets/images/MicrosoftTeams-image%20(9).png)
+![image](assets/images/award-smaller.png)
 
-![image](https://github.com/bipsgatech/bipsgatech.github.io/blob/a963f4090379d62799223f60b69e27785a751de1/assets/images/MicrosoftTeams-image%20(8).png)
+**3/12/2021**  BiPS members met in person for the first time for a picnic in Piedmont park. 
 
-**3/12/2021**  BiPS members met for a picnic in Piedmont park. 
+![image](assets/images/bipsgathering-smaller.png)
 
-**2/10/2021** BiPS held an all member meeting on Feb 10th 2021. 
+**2/10/2021** BiPS held an all member meeting on Feb 10th 2021. Thanks everyone for coming!
 
 **1/1/2021** Happy new year everyone! Here’s to a good 2021 
 
