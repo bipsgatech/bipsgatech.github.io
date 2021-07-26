@@ -26,7 +26,7 @@ header:
 excerpt: "[Professor Robles](https://robleslab.gatech.edu/) and BiPS invite you to participate in our weekly Imaging Journal Club, currently held every Friday at 4pm. Sign up below to recieve email updates about upcoming meetings."
 ---
 
-Our weekly journal club is a fun way to learn more about the field of optics and practice your presentation skills in a low pressure environment among your peers. Currently we meet on Fridays at 4pm over bluejeans. Nervous to present right away? Don't worry! We welcome new members to come by and participate anytime during the semester, then decide if you would like to sign up with the next round of presenters. 
+Our weekly journal club is a fun way to learn more about the field of optics and practice your presentation skills in a low pressure environment among your peers. Currently we meet on Fridays at 4pm on our [MS Teams Journal Club channel](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fteam%2F19%3A946d63e6748d4168a009cd653a12bdc8%40thread.tacv2%2Fconversations%3FgroupId%3De3cb8047-564c-44df-a290-b786c843ee71%26tenantId%3D482198bb-ae7b-4b25-8b7a-6d7f32faa083&type=team&deeplinkId=393aeb3c-39aa-4bb3-8a45-1ee085b96949&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true). Nervous to present right away? Don't worry! We welcome new members to come by and participate anytime during the semester, then decide if you would like to sign up with the next round of presenters or not! 
 
 Upcoming dates and presenters as well as some of the past presented papers listed below:
 
