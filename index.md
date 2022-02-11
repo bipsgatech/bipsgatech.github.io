@@ -34,14 +34,14 @@ feature_row:
     title: "What even is this??"
     excerpt: "I don't know!"
 feature_row2:
-  - image_path: /assets/images/BipsOptica-01.png
+  - image_path: /assets/images/BiPSOptica-01.png
     alt: "placeholder image 2"
     title: "BiPS + OSA"
     excerpt: 'Through a wide range of technical and social events, BiPS serves as a platform for the exchange of ideas, interdisciplinary research, and wider community engagement. BiPS hopes to foster a collaborative environment where members can form lasting connections to further their personal and professional goals.
     
-    BiPS is proud to be an offical Optical Society of America (OSA) chapter!'
+    BiPS is proud to be an offical Optica (formerly OSA) chapter!'
     url: "https://www.osa.org/en-us/membership/join/individual/"
-    btn_label: "Become an OSA member"
+    btn_label: "Become an Optica member"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: assets/images/BipsTeams/Slide1.png
@@ -117,7 +117,7 @@ feature_row4:
 
 **5/20/2020** Distributed [survey](https://docs.google.com/forms/d/e/1FAIpQLSfTlYQRCFOhuHpfr9MdH-v1RMtRI5e2gdpm3mkezbyeksj_2Q/viewform) for co-hosting a workshop event with BBUGS.
 
-**5/18/2020** We’ve been approved as an official OSA student chapter! 
+**5/18/2020** We’ve been approved as an official OSA (now Optica) student chapter! 
 
 **3/13/2020** We’re listed as an [official BME Graduate Organization](https://bme.gatech.edu/bme/get-involved)
 
