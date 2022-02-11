@@ -34,7 +34,7 @@ feature_row:
     title: "What even is this??"
     excerpt: "I don't know!"
 feature_row2:
-  - image_path: /assets/images/BipsOSA.png
+  - image_path: /assets/images/BipsOptica-01.png
     alt: "placeholder image 2"
     title: "BiPS + OSA"
     excerpt: 'Through a wide range of technical and social events, BiPS serves as a platform for the exchange of ideas, interdisciplinary research, and wider community engagement. BiPS hopes to foster a collaborative environment where members can form lasting connections to further their personal and professional goals.
