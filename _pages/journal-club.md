@@ -69,6 +69,7 @@ Upcoming dates and presenters as well as some of the past presented papers liste
 
 
 ## Summer 2021
+
 | Date | Presenter | Title | Journal   information | DOI |
 |---|---|---|---|---|
 | April 2nd | Dylan Son | High-definition   imaging using line-illumination modulation microscopy | Nature   Methods (2021) |  <https://doi.org/10.1038/s41592-021-01074-x> |
