@@ -30,27 +30,65 @@ Our weekly journal club is a fun way to learn more about the field of optics and
 
 Upcoming dates and presenters as well as some of the past presented papers listed below:
 
-## Summer 2021
+## Spring 2022
 
-| Date | Presenter | Title | Journal information | DOI |
-|----------|--------------|------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
-|April 2nd|Dylan Son||||
-|April 16th|Tara Urner||||
-|April 23rd|**Visiting proferssor:** Dr. Jonathan Liu|"Nondestructive 3D pathology with open-top light-sheet microscopy for precision medicine"|||
-|May 7th|Ashkan Ojaghi||||
-|May 14th|Dr. Jake Guang||||
-|May 21st|**Visiting professor:** Dr. Roarke Horstmeyer||||
-|May 28th|Caroline Filan||||
-|June 4th|Vishy Gorti||||
-|June 11th|Dr. Paco Robles||||
-|June 18th|**Visiting professor:** Dr. Kenny Tao||||
-|June 25th|Nischita Kaza||||
-|July 9th|**Visiting professor:** Dr. Changhuei Yang||||
-|July 16th|Paloma Casteleiro||||
-|July 23rd|**Visiting professor:** Dr. Nicholas Durr||||
-|July 30th|Dr. Xavier Audier||||
-|August 6th|Dr. Soheil Soltani||||
-|August 13th|Patrick Ledwig||||
+| Date | Presenter | Title | Journal   information | DOI |
+|:---:|:---:|:---:|:---:|:---:|
+| Jan 14th | Dr.   Xavier Audier | Single photon   multiclock lock-in detection by picosecond timestamping | Optica (2021) | <https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-12-1646&id=466180> |
+| Jan 28th | Tara   Urner | Scanning   interferometric near-infrared spectroscopy | Optics   Letter (2022) | <https://opg.optica.org/ol/abstract.cfm?URI=ol-47-1-110> |
+| Feb 4th | Dylan   Son | A compact open-top   light-sheet microscope for optofluidic imaging | SPIE Photonics West   On-demand 2022 |   |
+| Feb 11th | University of   Rochester | TBD |   |   |
+| Feb 18th | Paloma   Casteleiro | TBD |   |   |
+| Feb 25th | Dr.   Jake Guang | TBD |   |   |
+| Mar 4th | Vishy   Gorti | TBD |   |   |
+| Mar 11th | Caroline   Filan | TBD |   |   |
+| Mar 18th | Nischita   Kaza | TBD |   |   |
+| Mar 25th | Joint Journal Club | TBD |   |   |
+| April 1st | Brian   Cheng | TBD |   |   |
+| April 8th | Combined Journal Club | TBD |   |   |
+| April 15th | Dr.   Soheil Soltani | TBD |   |   |
+| April 22th | Joint Journal Club | TBD |   |   |
+| April 29th | Dr.   Paco Robles | TBD |   |   |
+
+## Fall 2021
+
+| Date | Presenter | Title | Journal   information | DOI |
+|---|---|---|---|---|
+| Aug 20th | New semester gathering | - |   |   |
+| Aug 27th | Dr. Jake Guang | Polarization-resolved   second-harmonic generation imaging through a multimode fiber | Optica (2021) | <https://doi.org/10.1364/OPTICA.430295> |
+| Sep10th | Tara Urner | Non-invasive   super-resolution imaging through dynamic scattering media | Nature Communications   (2021) | <http://www.nature.com/articles/s41467-021-23421-4>  |
+| Sep 17th | Dylan Son | Universal autofocus   for quantitative volumetric microscopy of whole mouse brains | Nature Methods (2021) | <https://doi.org/10.1038/s41592-021-01208-1> |
+| Oct 8th | Paloma Casteleiro | Real-time multi-angle   projection imaging of biological dynamics | Nature Methods (2021) | <https://doi.org/10.1038/s41592-021-01175-7> |
+| Oct 15th | Patrick Ledwig | TBD |   |   |
+| Oct 22th | Caroline Filan |  Label-free monitoring of 3D cortical   neuronal growth in vitro using optical diffraction tomography  | Biomedical Optics   Express (2021) | <https://doi.org/10.1364/BOE.439404> |
+| Oct 29th | Dr. Xavier Audier | Photon Detection : A Review |   |   |
+| Nov 5th | Semester social event | - |   |   |
+| Nov 12th | Vishy Gorti | Lipid tracking at kilohertz sampling rates on live cell   membranes through Interferometric Scattering microscopy | BioRxhiv (2021) | <https://www.biorxiv.org/content/10.1101/2021.08.06.455401v1.full> |
+| Dec 3th | Nischita Kaza | Multiview confocal super-resolution   microscopy | Nature (2021) | <https://doi.org/10.1038/s41586-021-04110-0> |
+| Dec 10th | Brian Cheng | Spatial light interference microscopy: principle and   applications to biomedicine | Advances in Optics and Photonics (2021) | <https://doi.org/10.1364/AOP.417837> |
+
+
+## Summer 2021
+| Date | Presenter | Title | Journal   information | DOI |
+|---|---|---|---|---|
+| April 2nd | Dylan Son | High-definition   imaging using line-illumination modulation microscopy | Nature   Methods (2021) |  <https://doi.org/10.1038/s41592-021-01074-x> |
+| April 9th | Game   night | - |   |   |
+| April 16th | Tara   Urner | Time-of-flight   resolved light field fluctuations reveal deep human tissue physiology | Natutre   Communications (2020) | <https://doi.org/10.1038/s41467-019-14228-5> |
+| April 23rd | Visiting   proferssor: Dr. Jonathan Liu | “Nondestructive   3D pathology with open-top light-sheet microscopy for precision medicine” |   |   |
+| May 7th | Ashkan   Ojaghi | Phase   correlation imaging of unlabeled cell dynamics | Scientific   reports (2016) | <https://doi.org/10.1038/srep32702> |
+| May 14th | Dr.   Jake Guang | Optimization   analysis of partially coherent illumination for refractive index tomographic   microscopy |  Optics   and Lasers in Engineering (2021) | <https://doi.org/10.1016/j.optlaseng.2021.106624> |
+| May 21st | Visiting   professor: Dr. Roarke Horstmeyer | "Intelligent   biomedical imaging devices" |   |   |
+| May 28th | Vishy   Gorti | Phasor   S-FLIM: a new paradigm for fast and robust spectral fluorescence lifetime   imaging |  Nature   Methods (2021) | <https://doi.org/10.1038/s41592-021-01108-4> |
+| June 4th | Caroline   Filan | Tissue   dynamics spectroscopic imaging: functional imaging of heterogeneous cancer   tissue | J.   of Biomedical Optics (2020) | <https://doi.org/10.1117/1.JBO.25.9.096006> |
+| June 11th | Nischita   Kaza | Autofocusing   technologies for whole slide imaging and automated microscopy | Journal   of Biophotonics (2020) | <https://doi.org/10.1002/jbio.202000227> |
+| June 18th | Visiting   professor: Dr. Kenny Tao |  "Multimodality   technologies for point-of-care ophthalmic diagnostic imaging" |   |   |
+| June 25th | Dr.   Paco Robles | TBD |   |   |
+| July 9th | Visiting   professor: Dr. Changhuei Yang | "Multiomodality   technologies for point-of-care ophthalmic diagnostic imaging" |   |   |
+| July 16th | Paloma   Casteleiro | Quantum-enhanced   nonlinear microscopy |  Nature   (2021) | <https://doi.org/10.1038/s41586-021-03528-w> |
+| July 23rd | Visiting   professor: Dr. Nicholas Durr |  "Designing   medical devices with computational biophotonics" |   |   |
+| July 30th | Dr.   Xavier Audier |  Acousto-optic   Imaging at higher resolution |  Commun   Phys 3, 5 (2020).Optica 8, 936-943 (2021)  | <https://doi.org/10.1038/s42005-019-0267-9>     <https://doi.org/10.1364/OPTICA.424828> |
+| August 6th | Dr.   Soheil Soltani |  High-speed   compressed-sensing fluorescence lifetime imaging microscopy of live cells | Proceedings   of the National Academy of Sciences (2021) | <https://doi.org/10.1073/pnas.2004176118> |
+| August 13th | Patrick   Ledwig | Scattering   invariant modes of light in complex media. | Nature   Photonics (2021) | <https://doi.org/10.1038/s41566-021-00789-9> |
 
 ## Spring 2021
 
