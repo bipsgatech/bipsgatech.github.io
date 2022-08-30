@@ -10,10 +10,10 @@ main:
   #   url: /sitemap/
   - title: "Home"
     url: /
-  - title: "About Us"
-    url: /about
-  - title: "Journal Club"
-    url: /journal-club
+  #- title: "About Us"
+  #  url: /about
+  #- title: "Journal Club"
+  #  url: /journal-club
   #- title: "Resources"
   #  url: /resources
   # - title: News
