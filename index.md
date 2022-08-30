@@ -38,7 +38,9 @@ feature_row2:
   - image_path: /assets/images/BiPSOptica-01.png
     alt: "placeholder image 2"
     title: "This new homepage is under construction ... "
-    excerpt: '**Mission** Technology Transfer Consulting Club (T2C2) led by advanced degree students aim to provide managerial and strategic solutions for effective operations of technology transfer groups. 
+    excerpt: ' **From Fall 2022** We are starting to expand our scope to accommodate diverse career interests at the intersections of technology, business, and consulting for graduate students beyond the traditional research pathway. Please submit mailing-list to be updated!
+
+**Mission** Technology Transfer Consulting Club (T2C2) led by advanced degree students aim to provide managerial and strategic solutions for effective operations of technology transfer groups. 
 
 **Vision** Our vision is to foster and accelerate the expansion of technology transfer groups of students and faculties in Georgia Tech.
 
