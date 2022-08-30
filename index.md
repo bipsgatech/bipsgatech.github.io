@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/T2C2main.png
   actions:
     - label: "Join mailiing-list"
-      url: "https://github.us10.list-manage.com/subscribe?u=d02f63a5bc4b80c8fe14d9089&id=6af9353721"
+      url: "https://gatech.co1.qualtrics.com/jfe/form/SV_8k2z6cuyiw7A1Gm"
     - label: "Join T2C2 Microsoft Teams"
       url: "https://teams.microsoft.com/l/team/19%3a285262fc47d54a258640c434d2a65fa8%40thread.tacv2/conversations?groupId=3af23047-beac-4d67-af6c-443b2e9a2e2c&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083"
   
