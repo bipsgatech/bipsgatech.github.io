@@ -14,8 +14,8 @@ main:
     url: /about
   - title: "Journal Club"
     url: /journal-club
-  - title: "Resources"
-    url: /resources
+  #- title: "Resources"
+  #  url: /resources
   # - title: News
   #   url: /news
 
