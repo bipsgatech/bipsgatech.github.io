@@ -4,7 +4,7 @@ layout: splash
 # permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
-  # overlay_color: "#000"
+  # overlay_color: "#333"
   # overlay_filter: "0.0" #"0.5"
   # background-image: ""
   overlay_image: assets/images/main.png
