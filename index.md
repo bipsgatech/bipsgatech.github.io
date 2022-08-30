@@ -73,6 +73,7 @@ feature_row4:
 
 <!-- {% include feature_row id="feature_row4" type="right" %} -->
 
+**News** 
 **3/31/2022** Technology Transfer Consulting Club is being honored as the winner of "Danielle McDonald Legacy Award 2022" presented by Student Government Association at Georgia Tech
 ![image](assets/images/uwag.png)
 
