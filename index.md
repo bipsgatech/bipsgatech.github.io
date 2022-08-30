@@ -37,10 +37,9 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/BiPSOptica-01.png
     alt: "placeholder image 2"
-    title: "BiPS + Optica"
-    excerpt: 'Through a wide range of technical and social events, BiPS serves as a platform for the exchange of ideas, interdisciplinary research, and wider community engagement. BiPS hopes to foster a collaborative environment where members can form lasting connections to further their personal and professional goals.
+    title: "T2C2 Ver.2"
+    excerpt: 'Now, we are starting to expand our scope to accommodate diverse career interests at the intersections of technology, business, and consulting for graduate students beyond the traditional research pathway.'
     
-    BiPS is proud to be an offical Optica (formerly OSA) chapter!'
     url: "https://www.osa.org/en-us/membership/join/individual/"
     btn_label: "Become an Optica member"
     btn_class: "btn--primary"
