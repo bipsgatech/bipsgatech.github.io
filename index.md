@@ -4,10 +4,10 @@ layout: splash
 # permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
-  # overlay_color: "#333"
-  # overlay_filter: "0.0" #"0.5"
+  # overlay_color: "#111"
+  # overlay_filter: "0.5" #"0.5"
   # background-image: ""
-  overlay_image: assets/images/main.png
+  overlay_image: assets/images/T2C2main.png
   actions:
     - label: "Join mailiing-list"
       url: "https://github.us10.list-manage.com/subscribe?u=d02f63a5bc4b80c8fe14d9089&id=6af9353721"
