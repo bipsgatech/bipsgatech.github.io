@@ -4,10 +4,10 @@ layout: splash
 # permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
-  # overlay_color: "#111"
-  # overlay_filter: "0.8" 
-  # background-image: ""
-  overlay_image: assets/images/city.png
+   overlay_color: "#333"
+   overlay_filter: "0.5" 
+   background-image: ""
+  overlay_image: assets/images/main.png
   actions:
     - label: "Join mailiing-list"
       url: "https://gatech.co1.qualtrics.com/jfe/form/SV_8k2z6cuyiw7A1Gm"
