@@ -7,7 +7,7 @@ header:
   # overlay_color: "#111"
   # overlay_filter: "0.2" 
   # background-image: ""
-  overlay_image: assets/images/T2C2main.png
+  overlay_image: assets/images/city.png
   actions:
     - label: "Join mailiing-list"
       url: "https://gatech.co1.qualtrics.com/jfe/form/SV_8k2z6cuyiw7A1Gm"
