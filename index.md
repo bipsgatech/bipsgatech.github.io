@@ -6,8 +6,10 @@ date: 2016-03-23T11:48:41-04:00
 header:
    #overlay_color: "#333"
    #overlay_filter: "0.8" 
-   #background-image: ""
+   #background-image: "assets/images/T2C2main.png"
   overlay_image: assets/images/T2C2main.png
+  #overlay_filter: "0.8" 
+  
   actions:
     - label: "Join mailiing-list"
       url: "https://gatech.co1.qualtrics.com/jfe/form/SV_8k2z6cuyiw7A1Gm"
