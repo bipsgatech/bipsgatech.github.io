@@ -38,7 +38,7 @@ feature_row2:
   - image_path: /assets/images/gear.png
     alt: "placeholder image 2"
     title: "This new homepage is under construction ... "
-    excerpt: ' **From Fall 2022,** We are starting to expand our scope to accommodate diverse career interests at the intersections of technology, business, and consulting for graduate students beyond the traditional research pathway. Please submit mailing-list to be updated!
+    excerpt: ' **From Fall 2022** We are starting to expand our scope to accommodate diverse career interests at the intersections of technology, business, and consulting for graduate students beyond the traditional research pathway. Please submit mailing-list to be updated!
     
     url: "https://jeonghwanson.wixsite.com/gt2c2"
     btn_label: "Please visit past homepage for more information"
