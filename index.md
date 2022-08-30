@@ -14,8 +14,8 @@ header:
     - label: "Join T2C2 Microsoft Teams"
       url: "https://teams.microsoft.com/l/team/19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2/conversations?groupId=e3cb8047-564c-44df-a290-b786c843ee71&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083"
   
-excerpt: "  ** Mission ** Technology Transfer Consulting Club (T2C2) led by advanced degree students aim to provide managerial and strategic solutions for effective operations of technology transfer groups.
- ** Vision ** Our vision is to foster and accelerate the expansion of technology transfer groups of students and faculties in Georgia Tech."
+excerpt: "  **Mission** Technology Transfer Consulting Club (T2C2) led by advanced degree students aim to provide managerial and strategic solutions for effective operations of technology transfer groups.
+ **Vision** Our vision is to foster and accelerate the expansion of technology transfer groups of students and faculties in Georgia Tech."
 intro: 
   - excerpt: 'Through a wide range of technical and social events, BiPS serves as a platform for the exchange of ideas, interdisciplinary research, and wider community engagement. BiPS hopes to foster a collaborative environment where members can form lasting connections to further their personal and professional goals.'
 feature_row:
@@ -74,4 +74,5 @@ feature_row4:
 
 <!-- {% include feature_row id="feature_row4" type="right" %} -->
 
-** 2022 Fall semester ** T2C2 Official communication tool [Microsoft Teams](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2f_%23%2fl%2fteam%2f19%3a946d63e6748d4168a009cd653a12bdc8%40thread.tacv2%2fconversations%3fgroupId%3de3cb8047-564c-44df-a290-b786c843ee71%26tenantId%3d482198bb-ae7b-4b25-8b7a-6d7f32faa083&type=team&deeplinkId=b0e75d35-373e-4904-98bc-90e42ff390ee&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true](https://teams.microsoft.com/l/team/19%3a285262fc47d54a258640c434d2a65fa8%40thread.tacv2/conversations?groupId=3af23047-beac-4d67-af6c-443b2e9a2e2c&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083) Come join us!
+**2022 Fall semester** 
+
