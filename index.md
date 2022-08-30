@@ -8,7 +8,6 @@ header:
   # overlay_filter: "0.0" #"0.5"
   # background-image: ""
   overlay_image: assets/images/T2C2main.png
-  
   actions:
     - label: "Join mailiing-list"
       url: "https://gatech.co1.qualtrics.com/jfe/form/SV_8k2z6cuyiw7A1Gm"
