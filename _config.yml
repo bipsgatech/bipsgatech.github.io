@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Biomedical Photonics Society"
+title                    : "Technology Transfer Consulting Club"
 title_separator          : "-"
-subtitle                 : Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University
-name                     : "BiPS"
+subtitle                 : Georgia Institute of Technology
+name                     : "T2C2"
 description              : ""
 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -121,12 +121,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/withBiPS"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/withBiPS"
+   # - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+   #   url: #"https://twitter.com/withBiPS"
+   # - label: "Facebook"
+   #   icon: "fab fa-fw fa-facebook-square"
+   #   url: #"https://www.facebook.com/withBiPS"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   # url:
