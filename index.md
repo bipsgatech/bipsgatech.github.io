@@ -40,8 +40,8 @@ feature_row2:
     title: "T2C2 Ver.2"
     excerpt: 'Now, we are starting to expand our scope to accommodate diverse career interests at the intersections of technology, business, and consulting for graduate students beyond the traditional research pathway.'
     
-    url: "https://www.osa.org/en-us/membership/join/individual/"
-    btn_label: "Become an Optica member"
+    url: "https://jeonghwanson.wixsite.com/gt2c2"
+    btn_label: "Please visit past homepage for more information"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: assets/images/BipsTeams/Slide1.png
