@@ -6,9 +6,8 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/IMG_2783.JPG
-#   actions:
-#    caption: "Photo credit: [Mandracchia *et. al. Nat Communications*. 2020.](https://www.nature.com/articles/s41467-019-13841-8)"
+  overlay_image: assets/images/main.png
+
 excerpt: " "
 ---
 
