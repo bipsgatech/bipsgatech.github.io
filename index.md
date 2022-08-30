@@ -38,13 +38,7 @@ feature_row2:
   - image_path: /assets/images/gear.png
     alt: "placeholder image 2"
     title: "This new homepage is under construction ... "
-    excerpt: ' **From Fall 2022** We are starting to expand our scope to accommodate diverse career interests at the intersections of technology, business, and consulting for graduate students beyond the traditional research pathway. Please submit mailing-list to be updated!
-
-**Mission** Technology Transfer Consulting Club (T2C2) led by advanced degree students aim to provide managerial and strategic solutions for effective operations of technology transfer groups. 
-
-**Vision** Our vision is to foster and accelerate the expansion of technology transfer groups of students and faculties in Georgia Tech.
-
-Now, we are starting to expand our scope to accommodate diverse career interests at the intersections of technology, business, and consulting for graduate students beyond the traditional research pathway.'
+    excerpt: ' **From Fall 2022,** We are starting to expand our scope to accommodate diverse career interests at the intersections of technology, business, and consulting for graduate students beyond the traditional research pathway. Please submit mailing-list to be updated!
     
     url: "https://jeonghwanson.wixsite.com/gt2c2"
     btn_label: "Please visit past homepage for more information"
